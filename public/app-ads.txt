@@ -1,7 +1,1 @@
-# app-ads.txt untuk verifikasi Google AdMob - AckerLabs
-# Dokumentasi resmi Google AdMob: https://support.google.com/admob/answer/9363762
-# 
-# Format: <Domain Sistem Pertukaran>, <ID Penjual/Penerbit>, <Jenis Hubungan>, <ID Otoritas Sertifikasi>
-# Ganti "pub-XXXXXXXXXXXXXXXX" dengan ID penayang (Publisher ID) Google AdMob Anda yang sebenarnya.
-
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-1124685100899494, DIRECT, f08c47fec0942fa0
